@@ -4,7 +4,7 @@ Old Video(s) of Kdensport. This is an archive of my old videos.
 To watch the video,  
 1. Click on whatever ``` .mp4 ```
 2. Right click on View raw and Copy link
-3. Go to [URL2Player](https://url2player.vercel.app/) and Paste the link
+3. Go to [URL2Player](https://2ools.vercel.app/Url2Player) and Paste the link
 
 # Videos
 1. Selamat datang di NTV Official
