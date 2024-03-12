@@ -11,7 +11,7 @@ To watch the video,
 3. [Intro LIGMATV](https://github.com/kdensport/Video-Lama/raw/main/3.mp4) - Aug 20, 2020
 4. [Cara Membuat Intro Sendiri di Renderforest](https://github.com/kdensport/Video-Lama/raw/main/4.mp4) - Sep 13, 2020
 5. [Mondy Pley PINKY CAN JUMP](https://github.com/kdensport/Video-Lama/raw/main/5.mp4) - Dec 31, 2022
-6. [Cara Membuat Taskbar Windows 10 Di Tengah, Seperti Windows 11](6https://github.com/kdensport/Video-Lama/raw/main/6.mp4) - Apr 09, 2023
+6. [Cara Membuat Taskbar Windows 10 Di Tengah, Seperti Windows 11](https://github.com/kdensport/Video-Lama/raw/main/6.mp4) - Apr 09, 2023
 7. [Cara Cepat Matkan Laptop Dengan 1 Klik (Shortcut)](https://github.com/kdensport/Video-Lama/raw/main/7.mp4) - Apr 10, 2023
 8. [How To Change the Samsung Emoji to iOS Emoji New 2023](https://github.com/kdensport/Video-Lama/raw/main/8.mp4) - May 07, 2023
 9. [Cara Melihat Tanggal Penginstalan Aplikasi di Hp Android](https://github.com/kdensport/Video-Lama/raw/main/9.mp4) - Jun 11, 2023
